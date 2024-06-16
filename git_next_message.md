@@ -1,4 +1,3 @@
-NEW: Création Du Repo
+NEW: Editor Markdown
 
-- Création du repository
-- Création d'une page blog qui affiche du mdx
+- Création d'un éditeur de markdown

@@ -16,3 +16,8 @@ export type PostSlugParams = {
         slug: string;
     }
 }
+
+export type Editor = {
+    code: string,
+    frontmatter: PostMeta,
+}
